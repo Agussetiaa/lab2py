@@ -1,1 +1,1 @@
-#lab2py
+main.py
