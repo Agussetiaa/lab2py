@@ -1,6 +1,16 @@
-print("latihan1")
-a=input("nila a?")
-print("variable A=",a)
-b-input("nilai b?")
-print("variable B=",b)
-print("penjumlahan A=B=", int(a)+int(b))
+# input nilai variable
+a=input("masukan nilai a:")
+b=input("masukan nilai b:")
+
+# cetak nilai variable
+print("variable a=",a)
+print("variable b=",b)
+
+# cetak hasil operasi kedua variable dengan string format
+print("hasil penggabungan {1}&{0}=%s".format (a,b) %(a+b))
+
+# konversi nilai variable
+a=int(a)
+b=int(b)
+print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
+print("hssil pembagian {1}/{0}=%d".format(a,b) %(a/b))
