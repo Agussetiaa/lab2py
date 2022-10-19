@@ -1,1 +1,3 @@
-main.py
+# Latihan 1
+- Menjalankan **python console**
+- 
