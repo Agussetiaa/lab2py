@@ -50,6 +50,6 @@
 
 ![gambar](gambar/py8.png)
 
-# Menjalankan project
+# Menjalankan program
 
 ![gambar](gambar/py9.png)
