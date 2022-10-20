@@ -1,3 +1,5 @@
+# PROSES / LANGKAH-LANGKAH PRAKTIKUM
+
 # Latihan 1
 - Menjalankan **python console**
 - Menampilkan tulisan **"hello"** dilayar
@@ -37,7 +39,7 @@
 - Silahkan download pycharm di https://www.jetbrains.com/pycharm/
 - Setelah di instal, buka **pycharm**
 - Membuat laman kerja baru **create new project**
-- 
+
 ![gambar](gambar/py6.png)
 
 # Virtual environment
