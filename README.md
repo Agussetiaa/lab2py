@@ -6,11 +6,11 @@
 ![gambar](gambar/py1.png)
 
 # Latihan 2
-- menjumlahkan dua buah bilangan menggunakan variable a dan b
-- mendefisinikan variable a dengan nilai 8
-- mendefisinikan variable b dengan nilai 6
-- mencetak nilai varible a dan b
-- mencetak hasil penjumlahan a dan b
+- Menjumlahkan dua buah bilangan menggunakan variable a dan b
+- Mendefisinikan variable a dengan nilai 8
+- Mendefisinikan variable b dengan nilai 6
+- Mencetak nilai varible a dan b
+- Mencetak hasil penjumlahan a dan b
 
  ![gambar](gambar/py2.png)
 
@@ -34,9 +34,9 @@
 
 # Langkah-langkah menggunakan pycharm
 
-- silahkan download pycharm di https://www.jetbrains.com/pycharm/
-- setelah di instal, buka **pycharm**
-- membuat laman kerja baru **create new project**
+- Silahkan download pycharm di https://www.jetbrains.com/pycharm/
+- Setelah di instal, buka **pycharm**
+- Membuat laman kerja baru **create new project**
 - 
 ![gambar](gambar/py6.png)
 
