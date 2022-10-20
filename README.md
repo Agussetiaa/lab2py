@@ -16,4 +16,6 @@
 ![gambar](gambar/py3.png)
 
 # Latihan 3
-- 
+- Menjalankan **IDLE**
+- Membuat file baru dengan nama **Latihan3.py** (pastikan lokasi file pada folder **lab2.py** pada dierktory kerja anda)
+- Menggunakan fungsi **input** untuk mengambil nilai variable dari keybord
