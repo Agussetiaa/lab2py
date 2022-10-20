@@ -30,4 +30,4 @@
 
 # Latihan 3
 
-![gambar](gamabar/py5.png)
+![gambar](gambar/py5.png)
