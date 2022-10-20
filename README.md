@@ -32,9 +32,22 @@
 
 ![gambar](gambar/py5.png)
 
-# Latihan 3
+# Langkah-langkah menggunakan pycharm
 
+- silahkan download pycharm di https://www.jetbrains.com/pycharm/
+- setelah di instal, buka **pycharm**
+- membuat laman kerja baru **create new project**
+- 
 ![gambar](gambar/py6.png)
 
-# Latihan 3
+# Virtual environment
 
+![gambar](gambar/py7.png)
+
+# Menambahkan file baru
+
+![gambar](gambar/py8.png)
+
+# Menjalankan project
+
+![gambar](gambar/py9.png)
