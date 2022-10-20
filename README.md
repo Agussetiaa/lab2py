@@ -36,3 +36,5 @@
 
 ![gambar](gambar/py6.png)
 
+# Latihan 3
+
