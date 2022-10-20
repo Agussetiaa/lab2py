@@ -34,5 +34,5 @@
 
 # Latihan 3
 
-![gambar](gambar/py67.png)
+![gambar](gambar/py6.png)
 
