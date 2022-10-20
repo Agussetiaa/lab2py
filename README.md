@@ -14,7 +14,7 @@
 - Mencetak nilai varible a dan b
 - Mencetak hasil penjumlahan a dan b
 
- ![gambar](gambar/py22.png)
+ ![gambar](gambar/py2.png)
  
 
 # Latihan 3
