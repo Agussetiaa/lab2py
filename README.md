@@ -10,7 +10,7 @@
 - mendefisinikan variable b dengan nilai 6
 - mencetak nilai varible a dan b
 - mencetak hasil penjumlahan a dan b
-![gambar](gambar/py2.png)
+ ![gambar](gambar/py2.png)
 
 # Latihan 2
 ![gambar](gambar/py3.png)
