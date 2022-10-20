@@ -31,3 +31,8 @@
 # Latihan 3
 
 ![gambar](gambar/py5.png)
+
+# Latihan 3
+
+![gambar](gambar/py6,png
+
